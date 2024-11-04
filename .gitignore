@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+.venv
+
+# Virtualenv specific files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+ehthumbs.db
