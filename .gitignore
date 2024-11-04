@@ -27,3 +27,13 @@ __pycache__/
 # Windows
 Thumbs.db
 ehthumbs.db
+
+# Ignorar arquivos de banco de dados comuns
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.sql
+
+# Ignorar uma pasta de banco de dados específica
+/database/
